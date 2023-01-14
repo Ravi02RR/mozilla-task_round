@@ -218,7 +218,7 @@ header{
 
 
 .header-active{
-  background:#FF8E9E;
+  background:#26272b;
   box-shadow: 0 .1rem .3rem rgba(0,0,0,.3);
   padding: .5rem 1rem;
   color: white;
@@ -231,7 +231,7 @@ header .container{
 }
 
 header a{
-  color:#0c0b0b;
+  color:var(--pink);
   padding: 20px;
 }
 
