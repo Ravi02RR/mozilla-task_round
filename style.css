@@ -231,7 +231,7 @@ header .container{
 }
 
 header a{
-  color:var(--pink);
+  color:grey;
   padding: 20px;
 }
 
