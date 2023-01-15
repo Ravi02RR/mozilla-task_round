@@ -18,12 +18,4 @@ $(document).ready(function () {
 
   });
 
-  $('.Clinic-pic').magnificPopup({
-    delegate: 'a',
-    type: 'image',
-    gallery: {
-      enabled: true
-    }
-  });
-
 });
